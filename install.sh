@@ -27,7 +27,6 @@ pip3 install --no-cache-dir -r requirements.txt
 deactivate
 
 cp -r . $DIR
-
 chmod 755 $DIR
 chown -R $USER:$USER $DIR
 
