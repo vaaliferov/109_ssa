@@ -1,5 +1,6 @@
+env
 *.wav
 *.ogg
-secret.py
+*.jpg
 __pycache__
 .ipynb_checkpoints
